@@ -32,15 +32,15 @@ Example:
 
 | **VARIABLE**                                            | **INPUT/OUTPUT** |
 | ------------------------------------------------------- | --------------- |
-| Road alignment                                              |	Input            |
-| Slope gradient where the road passes                                  | Input            |
+| Standardized aspect index (aspect score)                                             |	Input            |
+| Terrain slope                                  | Input            |
 | Road width                                              |    Input            |
-| Excavation slope height                                      |	Input            |
-| Lost forest area                                          | Input            |
-| Number of observed runoff and landslide areas along the road    | Input            |
-| Distance of the road from riverbeds                          | Output			|
-| Potential structure                                  | Output            |
-| Areas connected by the road                          | Output            |     
+| Excavation height                                      |	Input            |
+| Deforested area                                          | Input            |
+| Number of landslide occurrences    | Input            |
+| Distance to riverbeds                          | Output			|
+| Potential hydraulic structures                                 | Output            |
+| Connected forest area                         | Output            |     
 
 # Economic scenario variables
 
@@ -48,13 +48,16 @@ Example:
 | ------------------------------------------------------- | --------------- |
 | Standardized aspect index (aspect score)                                            | Input           |
 | Terrain slope                                             | Input           |
-| Road width                                  | Input           |
-| Excavation height                                  | Input            |
-| Deforested area                                     | Input           |
-| Number of landslide occurrences                                   | Input           |
-| Distance to riverbeds                               | Output           |
-| Potential hydraulic structures                          | Output           |
-| Connected forest area                              | Output           |
+| Construction width                                  | Input           |
+| Potential hydraulic structure                                  | Input            |
+| Curvature factor                                     | Input           |
+| Route tortuosity                                   | Input           |
+| Ratio of horizontal curves                             | Input           |
+| Road surface roughness                          | Input           |
+| Average road spacing distance                              | Output           |
+| Ratio of productive area to road length                              | Output           |
+| Roads in production forests                              | Output           |
+| Timber production volume                              | Output           |
 
 # Social scenario variables
 
