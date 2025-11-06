@@ -46,18 +46,15 @@ Example:
 
 | **VARIABLE**                                            | **INPUT/OUTPUT** |
 | ------------------------------------------------------- | --------------- |
-| Road alignment                                            | Input           |
-| Slope gradient                                             | Input           |
-| Construction area width                                  | Input           |
-| Potential structure                                  | Input            |
-| Curvature factor                                     | Input           |
-| Winding factor                                   | Input           |
-| Density of horizontal curves                               | Input           |
-| Deformations on the road surface                          | Input           |
-| Average road spacing distance                              | Output           |
-| Road length and area opened for operation ((AA/YU*500 m)) | Output           |
-| Forest roads passing through economically functional forests       | Output           |
-| Amount of timber                                              | Output           |
+| Standardized aspect index (aspect score)                                            | Input           |
+| Terrain slope                                             | Input           |
+| Road width                                  | Input           |
+| Excavation height                                  | Input            |
+| Deforested area                                     | Input           |
+| Number of landslide occurrences                                   | Input           |
+| Distance to riverbeds                               | Output           |
+| Potential hydraulic structures                          | Output           |
+| Connected forest area                              | Output           |
 
 # Social scenario variables
 
