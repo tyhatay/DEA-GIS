@@ -1,0 +1,64 @@
+Acar HH (2005) Orman Yolları. Karadeniz Teknik Üniversitesi Ders Teksirleri Serisi:82, Trabzon, Türkiye
+Acar HH (2015) Environmental sensitive road planning and transportation techniques in forest engineering. İstanbul Üniversitesi Orman Fakültesi Dergisi 66:. https://doi.org/10.17099/jffiu.79204
+Akay AE (2006) Minimizing total costs of forest roads with computer-aided design model. Sadhana 31:621–633. https://doi.org/10.1007/BF02715918
+Akay AE, Sessions J (2005) Applying the Decision Support System, TRACER, to Forest Road Design. Western Journal of Applied Forestry 20:184–191. https://doi.org/10.1093/wjaf/20.3.184
+Akbarimehr M, Naghdi R (2012) Reducing erosion from forest roads and skid trails by management practices. Journal of Forest Science 58:165–169. https://doi.org/10.17221/136/2010-jfs
+Aricak B (2015) Using remote sensing data to predict road fill areas and areas affected by fill erosion with planned forest road construction: a case study in Kastamonu Regional Forest Directorate (Turkey). Environmental monitoring and assessment 187:1–10. https://doi.org/10.1007/s10661-015-4663-7
+Arslan A (2002) Kamu Harcamalarında Verimlilik, Etkinlik ve Denetim. Maliye Dergisi 140, 2:1–14
+Avcı M, Boz K (2017) Fire Problem, Distribution of Fires and Analysis of Important Fires in Mersin-Gülnar Forests. Turkish Journal of Forestry | Türkiye Ormancılık Dergisi 18:160–170. https://doi.org/10.18182/tjf.292769
+Bayramoğlu M, Toksoy D (2017) Veri zarflama analizinin ormancılıkta kullanımı. Turkish Journal of Forestry 18:82–82. https://doi.org/10.18182/tjf.273413
+Baysal İ, Uçarlı Y, Bilgili E (2017) Forest Fires and Birds. Kastamonu University Journal of Forestry Faculty 543–553. https://doi.org/10.17475/kastorman.287931
+Benítez-López A, Alkemade R, Verweij PA (2010) The impacts of roads and other infrastructure on mammal and bird populations: A meta-analysis. Biological Conservation 143:1307–1316. https://doi.org/10.1016/j.biocon.2010.02.009
+Bilici E (2009) A Study on the integration of Firebreaks and fireline with Forest Roads Networks and It’s Planning and Construction (A Case Study of Gallipoly National Park. Forestist 59:. https://doi.org/10.17099/jffiu.66756
+Blake S, Strindberg S, Boudjan P, et al (2007) Forest Elephant Crisis in the Congo Basin. Plos Biology 5:e111. https://doi.org/10.1371/journal.pbio.0050111
+Bont LG, Fraefel M, Fischer C (2018) A Spatially Explicit Method to Assess the Economic Suitability of a Forest Road Network for Timber Harvest in Steep Terrain. Forests 9:169. https://doi.org/10.3390/f9040169
+Çalışkan E (2013) Environmental impacts of forest road construction on mountainous terrain. Iranian journal of environmental health science & engineering 10:1–8. https://doi.org/10.1186/1735-2746-10-23
+Calvi A, Benedetto A, D’Amico F (2015) Driver reaction time to avoid collisions during a mobile phone conversation. In: Proceedings of 2015 Road Safety & Simulation International Conference. Orlando, USA, pp 690–701
+Çellek S (2022) The Effect of Aspect on Landslide and Its Relationship with Other Parameters. In: Landslides. IntechOpen. https://doi.org/10.5772/intechopen.99389
+Charnes A, Cooper WW, Lewin AY, Seiford LM (1994) Basic DEA Models. In: Data Envelopment Analysis: Theory, Methodology, and Applications. Springer Netherlands, pp 23–47. https://doi.org/10.1007/978-94-011-0637-5_1
+Charnes A, Cooper WW, Rhodes E (1978) Measuring the efficiency of decision making units. European Journal of Operational Research 2:429–444. https://doi.org/10.1016/0377-2217(78)90138-8
+Clements GR, Lynam AJ, Gaveau D, et al (2014) Where and How Are Roads Endangering Mammals in Southeast Asia’s Forests? Plos One 9:e115376. https://doi.org/10.1371/journal.pone.0115376
+Durusoy E, Mutuş R (2021) Yeşil Egzersizin Kronik Ağrıya, Fiziksel ve Mental Sağlığa Etkileri. İstanbul Gelişim Üniversitesi Sağlık Bilimleri Dergisi 14:351–362. https://doi.org/10.38079/igusabder.939915
+Eker M, Ada N (2011) Orman yolu kalite analizine yönelik ölçüt ve gösterge setinin oluşturulması. Turkish Journal of Forestry 12:89–97. https://doi.org/10.18182/tjf.41529
+Erdaş O (1997) Orman Yolları. Karadeniz Teknik Üniversitesi, Orman Fakültesi, Yayın No: 187/25-188/26 Cilt I-II, Trabzon, Türkiye
+Ewan L, Al-Kaisy A, Hossain F (2016) Safety effects of road geometry and roadside features on low-volume roads in oregon. Transportation Research Record Journal of the Transportation Research Board 2580:47–55. https://doi.org/10.3141/2580-06
+Fraefel M, Bont LG, Fischer C (2021) Spatially explicit assessment of forest road suitability for timber extraction and hauling in Switzerland. Eur J Forest Res 140:1195–1209. https://doi.org/10.1007/s10342-021-01393-w
+Fransen PJB, Phillips CJ, Fahey BD (2001) Forest road erosion in New Zealand: overview. Earth Surf Processes Landf 26:165–174. https://doi.org/10.1002/1096-9837(200102)26:2<165::AID-ESP170>3.0.CO;2-#
+Gold CM (2020) Surface interpolation, spatial adjacency and GIS. In: Three dimensional applications in Geographical Information Systems. CRC Press, pp 21–35. https://doi.org/10.1201/9781003069454-3
+Grigolato S, Pellegrini M, Cavalli R (2013) Temporal analysis of the traffic loads on forest road networks. Iforest - Biogeosciences and Forestry 6:255–261. https://doi.org/10.3832/ifor0773-006
+Gülci S, Akgül M, Gülci N, Demir M (2021) Orman yolu güzergahlarının belirlenmesinde farklı tekniklerle üretilmiş sayısal arazi modellerinin kullanılması üzerine bir araştırma. Bartın Orman Fakültesi Dergisi 23:654–667. https://doi.org/10.24011/barofd.908019
+Gümüş S, Hatay (2017) A cost effectiveness approach for configuration of feasible skyline yarder for specific forest regions. Feb-Fresenıus Envıronmental Bulletın 4656
+Hatay TY (2014) Doğu Karadeniz Bölgesinde bölmeden çıkarmada kullanılabilecek uygun bir orman hava hattına ait bazı teknik özelliklerin belirlenmesi. Master’s Thesis, Orman Mühendisliği Ana Bilim Dalı
+Hatay TY, Özcan Z, Gümüş S (2024) A study on measuring an objective aspect score for analysis in forestry: example of forest roads and landslide areas. Šumar list (Online) 148:465–475. https://doi.org/10.31298/sl.148.9-10.4
+Hayati (2012) Qualitative evaluation and optimization of forest road network to minimize total costs and environmental impacts" Iforest - biogeosciences and forestry. 5(3):121-125. https://doi.org/10.3832/ifor0610-009
+Heidari M, Najafi A, Borges J (2022) Introducing new index in forest roads pavement management system. Forests 2022, 13(10), 1674; https://doi.org/10.3390/f13101674
+Hosseini SAO, Gorgandipur M, Nikooy M (2018) Forest road network assessment using lookout points orienting in Hyrcanian forest using GIS–Short Communication. Journal of forest science 64:402–408. https://doi.org/10.17221/45/2018-jfs
+Jacyna M, Wasiak M (2015) Costs of road transport depending on the type of vehicles. Combustion Engines 162:85–90. https://doi.org/10.19206/ce-116868
+Kaptan Ayhan Ç (2019) Ayazmapınarı Tabiat Parkı’nın (Bayramiç, Çanakkale) Rekreasyonel Potansiyelinin Belirlenmesi Üzerine Bir Araştırma. Çomü Ziraat Fakültesi Dergisi 7:219–228. https://doi.org/10.33202/comuagri.569906
+Kaya M, Uzun O (2019) Ekosistem hizmetleri ve mekânsal planlama i̇lişkisinin peyzaj planlama çerçevesinde değerlendirilmesi. Düzce Üniversitesi Bilim Ve Teknoloji Dergisi 7:2166–2193. https://doi.org/10.29130/dubited.546496
+Kazama VS, Corte APD, Robert RCG, et al (2021) Global review on forest road optimization planning: Support for sustainable forest management in Amazonia. Forest Ecology and Management 492:119159. https://doi.org/10.1016/j.foreco.2021.119159
+Kleinschroth F, Healey J (2017) Impacts of logging roads on tropical forests. Biotropica 49:620–635. https://doi.org/10.1111/btp.12462
+Kovalčík M (2018) Efficiency of the slovak forestry in comparison to other european countries: an application of data envelopment analysis. Central European Forestry Journal 64:46–54. https://doi.org/10.1515/forj-2017-0026
+Misirlioğlu G, Gümüş S (2024) Time-dependent change of natural vegetation on forest road fill slopes and its effects on erosion decrease. Šumar list (Online) 148:285–292. https://doi.org/10.31298/sl.148.5-6.6
+Nagendra H, Southworth J, Tucker C (2003) Accessibility as a determinant of landscape transformation in western Honduras: linking pattern and process. Landscape Ecology 18:141–158. https://doi.org/10.1023/A:1024430026953
+Noon CE (2004) Operations management. Encyclopedia of Health Care Management. https://doi.org/10.4135/9781412950602.n558
+OGM292 (2008) The Regulation on the Planning, Construction, and Maintenance of Forest Roads. In: Orman Genel Müdürlüğü. https://www.ogm.gov.tr/tr/e-kutuphane-sitesi/mevzuat-sitesi/Tebligler/Orman%20Yollar%C4%B1%20Planlamas%C4%B1,%20Yap%C4%B1m%C4%B1%20ve%20Bak%C4%B1m%C4%B1%20(292%20Say%C4%B1l%C4%B1%20Tebli%C4%9F).pdf. Accessed 27 Oct 2025
+OGM299 (2017) The Principles of Ecosystem-based Multipurpose Forest Planning. In: Orman Genel Müdürlüğü. https://www.ogm.gov.tr/tr/e-kutuphane-sitesi/mevzuat-sitesi/Tebligler/Ekosistem%20Tabanl%C4%B1%20Fonksiyonel%20Orman%20Amenajman%20Planlar%C4%B1n%C4%B1n%20D%C3%BCzenlenmesine%20Ait%20Usul%20ve%20Esaslar.pdf. Accessed 27 Oct 2025
+Öztürk (2020) Temporal Change of Drainage Structures in Forest Roads (Study of Bentler Forest Enterprise 2009-2019. European journal of forest engineering. https://doi.org/10.33904/ejfe.721965
+Öztürk T, Doğan H, Başar O (2022) Orman yolunda uygulanan yeni tip çelik köprü (vize orman i̇şletme müdürlüğü örneği. Bartın Orman Fakültesi Dergisi 24:13–24. https://doi.org/10.24011/barofd.1009284
+Peyrov S, Najafi A, Nourodini AR (2016) Predicting the earthwork width and determining the annual growth loss due to forest road construction using artificial neural network and ArcGIS. Journal of Forest Science 62:337–344. https://doi.org/10.17221/110/2015-jfs
+Semlitsch R, Ryan T, Hamed K, et al (2006) Salamander abundance along road edges and within abandoned logging roads in appalachian forests. Conservation Biology 21:159–167. https://doi.org/10.1111/j.1523-1739.2006.00571.x
+Soulis K, Dercas N, Papadaki C (2014) Effects of forest roads on the hydrological response of a small‐scale mountain watershed in greece. Hydrological Processes 29:1772–1782. https://doi.org/10.1002/hyp.10301
+Spellerberg I (1998) Ecological effects of roads and traffic: a literature review. Global Ecology & Biogeography Letters 7:317–333. https://doi.org/10.1046/j.1466-822x.1998.00308.x
+Stückelberger JA, Heinimann HR, Burlet EC (2006) Modeling spatial variability in the life-cycle costs of low-volume forest roads. European Journal of Forest Research 125:377–390. https://doi.org/10.1007/s10342-006-0123-9
+Toma P, Miglietta PP, Morrone D, Porrini D (2020) Environmental risks and efficiency performances: the vulnerability of italian forestry firms. Corporate Social Responsibility and Environmental Management 27:2793–2803. https://doi.org/10.1002/csr.2002
+Trombulak SC, Frissell CA (2000) Review of ecological effects of roads on terrestrial and aquatic communities. Conservation biology 14:18–30. https://doi.org/10.1046/j.1523-1739.2000.99084.x
+Vatandaşlar C, Demir M (2015) Orman yollarının doğal afetlerde acil ulaşım yolu olarak kullanım olanakları. İstanbul Üniversitesi Orman Fakültesi Dergisi 66:369. https://doi.org/10.17099/jffiu.63832
+Votsi N, Mazaris A, Kallimanis A, et al (2012) Road effects on habitat richness of the greek natura 2000 network. Nature Conservation 1:53–71. https://doi.org/10.3897/natureconservation.1.2086
+Walker R, Arima E, Messina J, et al (2013) Modeling spatial decisions with graph theory: logging roads and forest fragmentation in the Brazilian Amazon. Ecological applications 23:239–254. https://doi.org/10.1890/11-1800.1
+Ward JH (1963) Hierarchical Grouping to Optimize an Objective Function. Journal of the American Statistical Association 58:236–244. https://doi.org/10.1080/01621459.1963.10500845
+Wemple B, Jones J, Grant G (1996) Channel network extension by logging roads in two basins, western cascades, oregon1. Jawra Journal of the American Water Resources Association 32:1195–1207. https://doi.org/10.1111/j.1752-1688.1996.tb03490.x
+Yolalan R (1993) İşletmeler arası Göreli Etkinlik Ölçümü, Milli Prodüktivite Yayınları No:483, Ankara, Türkiye
+Zeng S, Liu R, Ya Z, He X (2021) Research on provincial forestry investment efficiency in china. Advances in Management and Applied Economics 1–28. https://doi.org/10.47260/amae/1151
+Zou Y, Zhang Y, Cheng K (2021) Exploring the impact of climate and extreme weather on fatal traffic accidents. Sustainability 13:390. https://doi.org/10.3390/su13010390
+
