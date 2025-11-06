@@ -63,29 +63,29 @@ Example:
 
 | **VARIABLE**                                            | **Input/Output** |
 | ------------------------------------------------------- | --------------- |
-| Road gradient                                               | Input           |
+| Road slope                                               | Input           |
 | Road length                                            | Input           |
-| Straight and curved structure composition of the road (winding)   | Input           |
-| Construction area width and lost forest area             | Input           |
-| Transition to road protection forest for aesthetic purposes                | Output           |
-| Access to agricultural and pasture areas                        | Output           |
-| Service life                                              | Output           |
-| Green (vegetation-covered) excavation slopes                | Output           |
-| Population of surrounding villages                            | Output           |
+| Route tortuosity   | Input           |
+| Deforested area             | Input           |
+| Roads in socially functional forests                | Output           |
+| Accessibility to agricultural lands                        | Output           |
+| Service duration (days per year)                                              | Output           |
+| Vegetated (rehabilitated) cut slopes                | Output           |
+| Population of adjacent villages                            | Output           |
 
 # Technical scenario variables
 
 | **VARIABLE**                                | **Input/Output** |
 | ------------------------------------------- | --------------- |
-| Road deformation intensity                   | Input           |
-| Road alignment                            | Input           |
+| Road surface roughness                   | Input           |
+| Standardized aspect index (aspect score)                            | Input           |
 | Platform width                            | Input           |
-| Meeting and stopping place                        | Input           |
-| Shoulder width                            | Input           |
-| Ditch width                            | Input           |
+| Passing bays and stopping points                        | Input           |
+| Road shoulder width                            | Input           |
+| Road ditch width                            | Input           |
 | Average road spacing distance                  | Output           |
-| Sections connected by the road           | Output           |
-| Forest area opened up for operation              | Output           |
+| Connected forest area           | Output           |
+| Roads in production forests              | Output           |
 
 
 ## License
