@@ -17,10 +17,10 @@ Introduction to the files in the content:
 # How should the installation be performed?
 This system has been tested with Arcmap10.8.
 
-1. Enter any scenario data into the Arcpy GIS model file.
+1. Enter any scenario data into the Arcpy Scripts file.
 2. Open Arcmap.
 3. Open the .tbx file from ArcCatalog. 
-4. The modules that require installation are the first and last modules. Therefore, right-click on the first or last module and select properties. In the window that appears, select the “.py extension code file” with the same name located in the appropriate scenario in the “script file” section of the “Arcpy GIS model” folder.
+4. The modules that require installation are the first and last modules. Therefore, right-click on the first or last module and select properties. In the window that appears, select the “.py extension code file” with the same name located in the appropriate scenario in the “script file” section of the “Arcpy Scripts” folder.
 
 Example:
 ![Screenshot of Module](https://tahayasin.com/VZA_DEA/kurulum.jpg)
