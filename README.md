@@ -1,5 +1,5 @@
 # Determining the Efficiency Score of Forest Roads Based on Their Functional Status
-This study was prepared with the support of the TÜBİTAK project coded 122O785.
+This study was prepared with the support of the TÜBİTAK project coded 122O785. The platform is accessible at https://deagis.tahayasin.com .
 
 This study examines the relationship between forest roads and forest resources, as well as the relationships between forest roads themselves, which form a systematic network. The aim is to measure the efficiency of forest roads planned and constructed using public resources by using different inputs and outputs with Data Envelopment Analysis. The goal is to ensure the effective and efficient use of this planning and construction process. By evaluating these efficiency scores, efforts to improve the current state of forest roads will be kept up to date. Furthermore, a package program serving as a guide for planners has been developed, and a program module has been created using Python programming for GIS applications based on programming.
 
